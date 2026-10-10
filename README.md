@@ -1,0 +1,4 @@
+Mulai masuk ke tampilan web yang kelihatan. <header> berisi judul utama halaman, sedangkan <nav> berisi daftar menu link untuk pindah-pindah halaman praktikum web.
+<img width="676" height="286" alt="image" src="https://github.com/user-attachments/assets/ef1d9b66-759a-4ad1-b838-5e5a66441c4a" />
+berikut merupakan kotak pembungkus (div dengan id="intro"). Di dalam paragrafnya kita pakai Inline CSS (style="...") buat merapikan teks. Di bagian bawahnya ada link yang disulap jadi tombol lewat kelas button btn-primary.  <img width="1086" height="245" alt="image" src="https://github.com/user-attachments/assets/e0f66691-94bb-45e1-9981-746fa80fbe40" />
+Blok ini khusus mengatur kotak pembungkus yang punya ID intro di file HTML tadi. Warnanya diganti jadi biru, dikasih garis pinggir hijau, dan judul h1 di dalamnya diatur rata kiri dengan warna teks putih.![Uploading image.png…]()
